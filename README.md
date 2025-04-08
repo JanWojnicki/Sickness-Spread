@@ -12,7 +12,7 @@ This application simulates how diseases spread through a population. It uses sta
 - Immunity after recovery
 - Population movement patterns
 
-![Disease Spread Simulation Screenshot](screenshots/simulation-running.png)
+![Disease Spread Simulation Screenshot](screenshots/simulation.png)
 
 
 ## Features
